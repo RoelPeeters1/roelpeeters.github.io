@@ -1,0 +1,41 @@
+html {
+  background-color: #08295c;
+  font-family: 'Josefin Sans', sans-serif;
+}
+body {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #347deb;
+  padding: 20px;
+  border: 10px solid black;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #08295c;
+  text-shadow: 3px 3px 1px black;
+  }
+h2{
+  font-size: 50px;
+  text-align: center;
+  }
+h3{
+  font-size: 30px;
+  text-align: center;
+  }
+h4{
+  font-size: 16px;
+  text-align: center;
+  }
+p, li{
+font-size: 16px;
+line-height: 2;
+letter-spacing: 1px;
+}
+img {
+  height: 150px;
+  display: block;
+  margin: 0 auto;
+}
